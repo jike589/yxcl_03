@@ -1,0 +1,2 @@
+1boy
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1593652379, Size: 512x512, Model hash: e3edb8a26f, Model: 2D-ghostmix_v20Bakedvae, Clip skip: 2, Version: v1.7.0
